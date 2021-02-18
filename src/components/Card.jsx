@@ -15,7 +15,7 @@ function Card() {
               </p>
           <h6>Technology used </h6>
           <p>HTML5, CSS3, JAVASCRIPT</p>
-          <a class="flow-text" href="version-1.0/homePage.html">Acess Site <i class="small material-icons">open_in_new</i> </a>
+          <a class="flow-text" href="https://claytonpereira.com/Proj_bloco3_vigilante_page/version-1.0/homePage.html">Acess Site <i class="small material-icons">open_in_new</i> </a>
           </div> 
         </li>
         </ul>
