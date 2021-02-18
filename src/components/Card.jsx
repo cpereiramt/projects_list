@@ -4,7 +4,7 @@ function Card() {
     return (
         <div class="card-panel hoverable" >
         <div class="row">
-        <h4 class="col s12">Vigilante 8 2 Offense Page Tribute Release notes</h4>
+        <h4 class="col s12">Vigilante 8 2 Offense Page Tribute Release notes 2</h4>
         <ul class="collapsible">
         <li class="col s12">
         <div class="collapsible-header"> <i class="material-icons">add_box</i> Version 1.0 
