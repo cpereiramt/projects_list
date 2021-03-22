@@ -1,11 +1,14 @@
-import React from 'react'
+import React from 'react';
+import Collapsible from "./Collapsible";
 
 function Card() {
     return (
         <div class="card-panel hoverable" >
         <div class="row">
         <h4 class="col s12">Vigilante 8 2 Offense Page Tribute Release notes 2</h4>
-        <ul class="collapsible">
+        <Collapsible />
+        
+        {/* <ul class="collapsible">
         <li class="col s12">
         <div class="collapsible-header"> <i class="material-icons">add_box</i> Version 1.0 
           </div>
@@ -18,7 +21,8 @@ function Card() {
           <a class="flow-text" href="https://claytonpereira.com/Proj_bloco3_vigilante_page/version-1.0/homePage.html">Acess Site <i class="small material-icons">open_in_new</i> </a>
           </div> 
         </li>
-        </ul>
+        </ul> */}
+        
         </div>
         </div>
     )
