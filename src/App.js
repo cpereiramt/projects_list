@@ -3,7 +3,7 @@ import Card from './components/Card';
 function App() {
   return (
     <>
-      <div class="container">
+      <div className="container">
         <Card/>
       </div>
     </>

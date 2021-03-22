@@ -3,11 +3,11 @@ import Collapsible from "./Collapsible";
 
 function Card() {
     return (
-        <div class="card-panel hoverable" >
-        <div class="row">
-        <h4 class="col s12">Vigilante 8 2 Offense Page Tribute Release notes 2</h4>
+        <div className="card-panel hoverable" >
+        <div className="row">
+        <h4 className="col s12">Vigilante 8 2 Offense Page Tribute Release notes 2</h4>
         <Collapsible />
-        
+
         {/* <ul class="collapsible">
         <li class="col s12">
         <div class="collapsible-header"> <i class="material-icons">add_box</i> Version 1.0 
