@@ -1,18 +1,16 @@
 import React from 'react';
 import Collapsible from "./Collapsible";
-import "./Card.css";
+import "./ProjectDetails.css";
 
-function Card() {
+function ProjectDetails() {
     return (
-        <div className="container">
         <div className="card-panel hoverable col s10" >
         <div className="row">
         <h5 className="col s12" >Vigilante 8 2 Offense Page Tribute Release notes</h5>
         </div>        
         <Collapsible />        
         </div>
-        </div>
     )
 }
 
-export default Card
+export default ProjectDetails

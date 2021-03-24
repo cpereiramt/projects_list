@@ -1,10 +1,12 @@
-import Card from './components/Card';
+import ProjectDetails from './components/ProjectDetails';
+import ProjectList from './components/ProjectList';
 
 function App() {
   return (
     <>
     <div className="container">
-        <Card/>
+   {/*  <ProjectList/> */}
+        <ProjectDetails/>
     </div>
     </>
   );
